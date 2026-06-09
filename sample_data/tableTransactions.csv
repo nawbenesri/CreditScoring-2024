@@ -1,0 +1,6 @@
+TransactionID,AccountID,Date_de_Transaction,Montant,Type_Transaction,Description
+9001,5001,20240501,850.0,credit,salaire fictif
+9002,5002,20240503,220.0,debit,paiement facture fictive
+9003,5003,20240506,75.5,debit,achat fictif
+9004,5004,20240510,1500.0,credit,virement fictif
+9005,5005,20240512,120.0,debit,retrait fictif

@@ -1,0 +1,6 @@
+LoanID,ClientID,Montant_Original,Date_de_Debut,Date_de_fin,Interet,Statut_du_Pret,Montant_Echeance,Capital_Restant
+7001,1001,50000.0,202101,202601,0.05,en cours,1200.0,28000.0
+7002,1002,30000.0,202002,202402,0.04,rembourse,950.0,0.0
+7003,1003,12000.0,202205,202505,0.06,en cours,420.0,8400.0
+7004,1004,80000.0,201901,202901,0.045,en cours,1300.0,52000.0
+7005,1005,15000.0,202301,202601,0.07,en retard,560.0,11800.0

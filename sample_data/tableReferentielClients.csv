@@ -1,0 +1,6 @@
+ClientID,Nom,Prenom,DateDeNaissance,Secteur,Residence,DateRelation,StatutMatrimonial,X,Y,Z
+1001,ClientA,Alex,1988,Casablanca,Casablanca,202001,celibataire,X,Y,Z
+1002,ClientB,Samira,1979,Rabat,Rabat,201806,mariee,X,Y,Z
+1003,ClientC,Yanis,1994,Tanger,Tanger,202103,celibataire,X,Y,Z
+1004,ClientD,Nadia,1985,Marrakech,Marrakech,201712,mariee,X,Y,Z
+1005,ClientE,Omar,1991,Fes,Fes,201905,celibataire,X,Y,Z

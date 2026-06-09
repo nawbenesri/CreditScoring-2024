@@ -1,0 +1,9 @@
+fastapi
+pandas
+numpy
+scikit-learn
+matplotlib
+pydantic
+redis
+types-redis
+uvicorn 

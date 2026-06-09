@@ -1,0 +1,6 @@
+AccountID,ClientID,Type_de_Compte,Date_Ouverture,Solde,Statut_Compte
+5001,1001,cheque,202001,12500.50,ouvert
+5002,1002,epargne,201806,8450.00,ouvert
+5003,1003,cheque,202103,3200.75,ouvert
+5004,1004,epargne,201712,18750.20,ouvert
+5005,1005,cheque,201905,610.40,ouvert

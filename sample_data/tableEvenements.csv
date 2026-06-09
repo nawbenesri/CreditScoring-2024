@@ -1,0 +1,6 @@
+EventID,ClientID,Type_Evenement,Date_Evenement
+3001,1001,changement_adresse,202402
+3002,1002,mise_a_jour_profil,202403
+3003,1003,changement_situation,202404
+3004,1004,mise_a_jour_profil,202405
+3005,1005,incident_paiement_fictif,202405
